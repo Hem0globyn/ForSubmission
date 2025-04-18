@@ -53,8 +53,8 @@ namespace ConsoleApp1
                     if (item.isEquip == true)
                     {
                         Console.WriteLine("장착을 해제합니다.");
-                        status.stat[4] -= item.ATK;
-                        status.stat[5] -= item.DEF;
+                        status.equipATK -= item.ATK;
+                        status.equipDEF -= item.DEF;
                         item.isEquip = false;
                         return;
                     }
@@ -62,8 +62,8 @@ namespace ConsoleApp1
                     {
                         Console.WriteLine($"{item.name}을(를) 장착합니다.");
                         item.isEquip = true;
-                        status.stat[4] += item.ATK;
-                        status.stat[5] += item.DEF;
+                        status.equipATK += item.ATK;
+                        status.equipDEF += item.DEF;
                         return;
                     }
                 }

@@ -114,4 +114,16 @@ namespace ConsoleApp1
             text = "청동 도끼 | 공격력 | 어디선가 사용됐던것 같은 도끼.";
         }
     }
+    public class MyItem : equipment
+    {
+        public MyItem()
+        {
+            name = "테스트용 무기";
+            type = ItemType.Weapon;
+            price = 200;
+            ATK = 50;
+            isEquip = false;
+            text = "내 아이템 | 공격력 +50 | 테스트용이라 쎄게 만들어졌다.";
+        }
+    }
 }

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sungj\\desktop\\code\\c#\\\uBCF8\uBA54\uB274\\textrpg\\consoleapp1\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sungj\\desktop\\code\\c#\\\uBCF8\uBA54\uB274\\textrpg\\consoleapp1\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sungj\\desktop\\code\\c#\\\uBCF8\uBA54\uB274\\textrpg\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sungj\\desktop\\code\\c#\\\uBCF8\uBA54\uB274\\textrpg\\consoleapp1\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sungj\\desktop\\code\\c#\\\uBCF8\uBA54\uB274\\textrpg\\consoleapp1\\recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\recovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sungj\\desktop\\code\\c#\\\uBCF8\uBA54\uB274\\textrpg\\consoleapp1\\equipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\equipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\sungj\\desktop\\code\\c#\\\uBCF8\uBA54\uB274\\textrpg\\consoleapp1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E830CB-5034-4E91-8B5F-51521EC9C9D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recovery.cs",
+              "DocumentMoniker": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\Recovery.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Recovery.cs",
+              "ToolTip": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\Recovery.cs",
+              "RelativeToolTip": "ConsoleApp1\\Recovery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:10:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\Battle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Battle.cs",
+              "ToolTip": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\Battle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Battle.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:10:47.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "status.cs",
+              "DocumentMoniker": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\status.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\status.cs",
+              "ToolTip": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\status.cs",
+              "RelativeToolTip": "ConsoleApp1\\status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:00:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "equipments.cs",
+              "DocumentMoniker": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\equipments.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\equipments.cs",
+              "ToolTip": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\equipments.cs",
+              "RelativeToolTip": "ConsoleApp1\\equipments.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwHwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:51:36.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inventorymanager.cs",
+              "DocumentMoniker": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\inventorymanager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\inventorymanager.cs",
+              "ToolTip": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\inventorymanager.cs",
+              "RelativeToolTip": "ConsoleApp1\\inventorymanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T09:43:23.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "store.cs",
+              "DocumentMoniker": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\store.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\store.cs",
+              "ToolTip": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\store.cs",
+              "RelativeToolTip": "ConsoleApp1\\store.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:20:42.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\sungj\\Desktop\\code\\C#\\\uBCF8\uBA54\uB274\\TextRPG\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAswOAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:39:37.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

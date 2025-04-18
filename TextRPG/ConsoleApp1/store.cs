@@ -20,6 +20,7 @@ namespace ConsoleApp1
             shopList.Add(new TrainerArmor());
             shopList.Add(new MetalPlate());
             shopList.Add(new SpartanArmor());
+            shopList.Add(new MyItem());
         }
 
         public void Showshop()
@@ -56,11 +57,11 @@ namespace ConsoleApp1
                 Console.WriteLine("이미 판매된 아이템입니다.\n");
                 return;
             }
-            if (status.stat[6] >= item.price)
+            if (status.gold >= item.price)
             {
                 Console.Clear();
                 Console.WriteLine($"{item.name}을(를) 구매했습니다.\n");
-                status.stat[6] -= item.price;
+                status.gold -= item.price;
                 item.isSold = true;
                 inventory.addItem(item);
 
